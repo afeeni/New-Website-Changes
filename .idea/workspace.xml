@@ -2,72 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573c569d-3845-4be8-87f5-d5e80c195c8d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Bio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Eyelashes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/INEEFAA STYLES.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Photos.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Resume.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/Youtube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/css/ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/css/images/highlight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/css/images/overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/ie/PIE.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/ie/backgroundsize.min.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/ie/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/ie/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/jquery.dropotron.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/skel-viewport.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/skel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/js/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/ie8.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/libs/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/libs/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/libs/_skel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/libs/_vars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/assets/sass/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/IMGP0922.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/A Journey TO.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-10.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-11.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-4.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-5.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-7.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-8.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/FullSizeRender.jpg-9.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMGP0902.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMGP0908.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_0311.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_6782.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_8887.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_8948.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_8958.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_9044.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_9045.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/Photos/IMG_9047.JPG.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/pic01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/pic02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/pic03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/pic04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/images/pic05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-txt/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,7 +87,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="63" />
+    <option name="x" value="255" />
+    <option name="y" value="74" />
     <option name="width" value="1280" />
     <option name="height" value="675" />
   </component>
@@ -184,6 +119,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="New Website Info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="New Website Info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="New Website Info" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -439,7 +388,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="63" width="1280" height="675" extended-state="0" />
+    <frame x="255" y="74" width="1280" height="675" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20113085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
